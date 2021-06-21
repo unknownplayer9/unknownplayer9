@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**unknownplayer9/unknownplayer9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**unknownplayer9/nbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
